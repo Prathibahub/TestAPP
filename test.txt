@@ -1,6 +1,0 @@
-
-go to corresponding directory:
-
-git add .
-git status
-git commit -m "first"
